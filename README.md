@@ -8,6 +8,8 @@ brew trust ssionn/querywren
 brew install --cask querywren
 ```
 
+On Homebrew versions before 7, the `brew trust` step does not exist and can be skipped.
+
 Update the cask with:
 
 ```sh
