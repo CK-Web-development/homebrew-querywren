@@ -3,9 +3,7 @@
 Install Querywren with Homebrew:
 
 ```sh
-brew tap ck-web-development/querywren
-brew trust ck-web-development/querywren
-brew install --cask querywren
+brew tap ck-web-development/querywren && brew trust ck-web-development/querywren && brew install --cask querywren
 ```
 
 On Homebrew versions before 7, the `brew trust` step does not exist and can be skipped.
