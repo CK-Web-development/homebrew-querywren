@@ -4,6 +4,7 @@ Install Querywren with Homebrew:
 
 ```sh
 brew tap ssionn/querywren
+brew trust ssionn/querywren
 brew install --cask querywren
 ```
 
