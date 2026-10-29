@@ -1,6 +1,6 @@
 cask "querywren" do
-  version "1.0.0"
-  sha256 "e6319e729b84ad418d0e15940c0a32ea76970db3f32e22625a2ff96391a2a375"
+  version "1.0.1"
+  sha256 "e244013eeee7b64b4efb58ec2b6a0faec9127fc6b17973a6b4e81754464116a5"
 
   url "https://querywren.nl/download/#{version}/Querywren.dmg"
   name "Querywren"
