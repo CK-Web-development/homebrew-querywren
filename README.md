@@ -3,8 +3,8 @@
 Install Querywren with Homebrew:
 
 ```sh
-brew tap ssionn/querywren
-brew trust ssionn/querywren
+brew tap ck-web-development/querywren
+brew trust ck-web-development/querywren
 brew install --cask querywren
 ```
 
